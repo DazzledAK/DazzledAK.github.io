@@ -361,10 +361,11 @@ input[type="submit"]:hover {
   line-height: 1.25em;
   letter-spacing: 1px;
   font-weight: 300;
+
 }
 
 .info p {
-  color: #b2b2b2;
+  color: #b2b2b2 !important;
   line-height: 1.25em;
   letter-spacing: 1px;
   font-weight: 300;
