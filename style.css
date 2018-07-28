@@ -367,7 +367,3 @@ input[type="submit"]:hover {
   font-weight: 300;
   font-size: 14px;
 }
-
-@-ms-viewport{
-  width: device-width;
-}
