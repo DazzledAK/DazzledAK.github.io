@@ -31,10 +31,6 @@ img {
   filter: grayscale(100%) contrast(150%) brightness(50%);
 }
 
-.portfolio img {
-  filter: grayscale(100%);
-}
-
 aside {
   position: fixed;
   background: #222;
